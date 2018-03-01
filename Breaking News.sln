@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking News", "Breaking News\Breaking News.csproj", "{2F56CC67-7E21-4A0C-A79D-F6265B5CD1CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking_News_NUnitTests", "Breaking_News_NUnitTests\Breaking_News_NUnitTests.csproj", "{9EDE363E-E269-4D63-B55C-2DA686671868}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2F56CC67-7E21-4A0C-A79D-F6265B5CD1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F56CC67-7E21-4A0C-A79D-F6265B5CD1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F56CC67-7E21-4A0C-A79D-F6265B5CD1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EDE363E-E269-4D63-B55C-2DA686671868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDE363E-E269-4D63-B55C-2DA686671868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDE363E-E269-4D63-B55C-2DA686671868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDE363E-E269-4D63-B55C-2DA686671868}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
